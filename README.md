@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pramod-ntm
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning IT Atomation with python
-- 💞️ I’m looking to job in google
-- 📫 How to reach me ...
+- 💞️ I’m looking for jobs
+- 📫 
 
 <!---
 Pramod-ntm/Pramod-ntm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
