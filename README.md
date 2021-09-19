@@ -2,7 +2,7 @@
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning IT Atomation with python
 - 💞️ I’m looking for jobs
-- 📫 
+
 
 <!---
 Pramod-ntm/Pramod-ntm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
